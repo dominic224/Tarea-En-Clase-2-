@@ -9,4 +9,4 @@
 # 1) muestra el nombre del integrante.
 # 2) con break detiene la búsqueda.
 # si no hay concidencia envia el mensaje de : Ese nombre no esta en BTS
-# en cao de que el usuario no escribe nada el programa detectara que no hay ingreso de ningún nombre 
+# en caso de que el usuario no escriba nada el programa detectara que no hay ingreso de ningún nombre 
